@@ -1,0 +1,21 @@
+filename = 'createnetherindustry-0.2.3.jar'
+name = 'Create: Nether Industry'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.2.3'
+
+[download]
+hash = '897a9266301bcd957b9d0cc91d60bbcd86aa61d3f0885c0a9235795f4c69f3ad7c4a19bac47f4c73dd70eb4ca47747da461eeccb870697cc655ab593c3ab0294'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/N7WPmTgv/versions/SNPbuKeo/createnetherindustry-0.2.3.jar'
+
+[update.modrinth]
+mod-id = 'N7WPmTgv'
+version = 'SNPbuKeo'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'

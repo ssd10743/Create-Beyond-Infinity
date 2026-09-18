@@ -1,0 +1,25 @@
+filename = 'Voxy World Gen V2-neoforge-1.21.1-2.4.2.jar'
+name = 'Voxy WorldGen'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '2.4.2'
+
+[download]
+hash = '1407723c46d6320eac110f7d31fb047ed08b5c654b83f9b77b8f19c90b351b497bf9a1180718dbf647579f3566b1b2a4f85f356c0d0de975a909c965d82bff5a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xT0lnNE9/versions/PzNUZlWw/Voxy World Gen V2-neoforge-1.21.1-2.4.2.jar'
+
+[update.modrinth]
+mod-id = 'xT0lnNE9'
+version = 'PzNUZlWw'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'sbpqhzIG'
+type = 'REQUIRED'

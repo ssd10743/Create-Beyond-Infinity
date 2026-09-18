@@ -1,0 +1,21 @@
+filename = 'extra_gauges-2.1.2.jar'
+name = 'Create: Extra Gauges'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1.2'
+
+[download]
+hash = '2ace66647d2077cf6e06cff491a94248f2e611820983acbe36c9acecdce030bce08b98f9461dd67c30f7b0d16cbb7fd7d21dd8dbcf8f0d8411291a8e762d29a7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6YJgomwt/versions/7ogQOYHA/extra_gauges-2.1.2.jar'
+
+[update.modrinth]
+mod-id = '6YJgomwt'
+version = '7ogQOYHA'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'OZhUIuou'
+type = 'REQUIRED'

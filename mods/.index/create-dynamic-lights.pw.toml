@@ -1,0 +1,25 @@
+filename = 'create-dyn-light-forge-1.21.1-2.0.1.jar'
+name = 'Create: Dynamic Lights'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'neoforge-2.0.1'
+
+[download]
+hash = '253b04afbfdf4863b1f4bcafa0cf5ba806c82faf81497e6b69833d4f4edefda5f32f10a8bc3f70e6ea5e46fd69c545ec26d321cbda8077846cfaeae584d2ded1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/evMQRxqV/versions/ltFc9AWJ/create-dyn-light-forge-1.21.1-2.0.1.jar'
+
+[update.modrinth]
+mod-id = 'evMQRxqV'
+version = 'ltFc9AWJ'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'PxQSWIcD'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'create_aquatic_ambitions-1.21.1-2.0.4.jar'
+name = 'Create: Aquatic Ambitions'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-6.0.10-2.0.4'
+
+[download]
+hash = '2150402262c8aefed2e4ce2dbf193fddcac61837983ebb7fe0a78d035c33229015033a63ff568fc1cfcf3914b4c5a3b511ebd8b1a8dc6e824a7a1d1639166c12'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9SyaPzp7/versions/DoI3PpXj/create_aquatic_ambitions-1.21.1-2.0.4.jar'
+
+[update.modrinth]
+mod-id = '9SyaPzp7'
+version = 'DoI3PpXj'

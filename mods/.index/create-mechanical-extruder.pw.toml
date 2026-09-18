@@ -1,0 +1,29 @@
+filename = 'create_mechanical_extruder-1.21.1-2.2.2-6.0.10.jar'
+name = 'Create Mechanical Extruder'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-2.2.2-6.0.10'
+
+[download]
+hash = 'efeb01312cb00800cc11e7765759b31058719e6a7c62744b453d242c4da7b75091b68eef2f489054a1244244a63672a46f4822a580eb8d8c64045a189e671827'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hGAlcCDJ/versions/fFDOEXAA/create_mechanical_extruder-1.21.1-2.2.2-6.0.10.jar'
+
+[update.modrinth]
+mod-id = 'hGAlcCDJ'
+version = 'fFDOEXAA'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ProvjTA7'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'

@@ -1,0 +1,18 @@
+filename = 'visibletraders-0.0.7.1.jar'
+name = 'Visible Traders'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.0.7.1'
+
+[download]
+hash = '6c63fbae2e2edad6d8befce58384a380ec6f368800098153185762f678de3833e6c8ddd64cbde3c42bd71b2e455ce1201b88321b2dece8b3e67101d107f40a72'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AhllI99f/versions/OXoi6R1p/visibletraders-0.0.7.1.jar'
+
+[update.modrinth]
+mod-id = 'AhllI99f'
+version = 'OXoi6R1p'

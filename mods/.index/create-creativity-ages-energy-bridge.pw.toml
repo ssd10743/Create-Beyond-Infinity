@@ -1,0 +1,29 @@
+filename = 'ccacnacompat-1.0.0.jar'
+name = 'Create: Creativity Ages -- Energy Bridge'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = 'a4d00654fe26fdba8d1be7829827e92b59e82a81f09f4a8b8ae5dedec149251e09f839da5d2de2e43b4126b751c58c381c1d9e5566fa6d5e1eadbb46430179ff'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OFkLEAkx/versions/NTelhDVV/ccacnacompat-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'OFkLEAkx'
+version = 'NTelhDVV'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'FTeXqI9v'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'kU1G12Nn'
+type = 'REQUIRED'

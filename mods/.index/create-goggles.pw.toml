@@ -1,0 +1,29 @@
+filename = 'creategoggles-1.21.1-6.1.1-[NEOFORGE].jar'
+name = 'Create Goggles'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '6.1.1'
+
+[download]
+hash = 'bf2c4167fdee64c3f43298c6fd2d9e347951d2fb8fc12e2c2bbafc486e8d690cd7ebfd536507d13a6b4c287236713f8d796c048df2356feda36542cf5b484afc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/L1RT5SJc/versions/Co24W2FL/creategoggles-1.21.1-6.1.1-%5BNEOFORGE%5D.jar'
+
+[update.modrinth]
+mod-id = 'L1RT5SJc'
+version = 'Co24W2FL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ce6I4WUE'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'

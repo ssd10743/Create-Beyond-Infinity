@@ -1,0 +1,18 @@
+filename = 'create_trimmed.jar'
+name = 'Create: Trimmed'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.1'
+
+[download]
+hash = 'bc1e2515975122fa888595427ca0381a1a4f6f117b88d14b4d3c260a4e6b1cfc0f8113c01074e472fb52a35cdaf8bbab45ebf89baa4ce49ff42567c25a43c0cb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zvaHXgQz/versions/P1pdTwvn/create_trimmed.jar'
+
+[update.modrinth]
+mod-id = 'zvaHXgQz'
+version = 'P1pdTwvn'

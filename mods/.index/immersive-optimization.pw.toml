@@ -1,0 +1,18 @@
+filename = 'immersive_optimization-neoforge-1.21.1-0.2.0.jar'
+name = 'Immersive Optimization'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.2.0+1.21.1'
+
+[download]
+hash = '5c631cb5e65ad0230b0927e3c0cbe0ae476f50513136a9616e1518064c5af55b70db2740a7bf0188a381ee7509b874676abd72c1e71ded244ca1b0d10dc21613'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vNZgQmjg/versions/h2tTmurt/immersive_optimization-neoforge-1.21.1-0.2.0.jar'
+
+[update.modrinth]
+mod-id = 'vNZgQmjg'
+version = 'h2tTmurt'

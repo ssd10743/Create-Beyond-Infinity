@@ -1,0 +1,21 @@
+filename = 'create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar'
+name = 'Create: Copper & Zinc'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.0'
+
+[download]
+hash = 'c7aa3c1c35ff7aa232c0627fc9552b845f834c0319c24bf313539bac755c2f3e3a7454f34b7fd6114b7738598b3aaeb0018775914d3bcbc03f68b797060d3fa9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aqYNR6rI/versions/1Z1LCW5Z/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'aqYNR6rI'
+version = '1Z1LCW5Z'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'

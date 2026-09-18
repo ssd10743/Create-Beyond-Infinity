@@ -1,0 +1,21 @@
+filename = 'BridgingMod-2.6.2+1.21.1.neoforge-release.jar'
+name = 'Bridging Mod'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.6.2+1.21.1.neoforge'
+
+[download]
+hash = '315129fd67381cfc799aa51fcd6ee511fdb6959a8b60f33afc9ea48c7cc13c689d6d56fcd2c793d8ce9ba95f7a37a5fe94c4422baa8c011592153ad2bd47dbd5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lO3s8hjs/versions/GiR8tHNc/BridgingMod-2.6.2%2B1.21.1.neoforge-release.jar'
+
+[update.modrinth]
+mod-id = 'lO3s8hjs'
+version = 'GiR8tHNc'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1eAoo2KR'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'formicapi-1.21.1-2.4.2.jar'
+name = 'FormicAPI'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.4.2'
+
+[download]
+hash = '865e2bf74dbd558816eff363597affba97050ef0383e01ca8eb370d1739a8a9b3fe49a044b01dc6b59f45d1212dcd7961882bcd5143bc990da7637e9a969f0f0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Wun33LcK/versions/KFLSWnM1/formicapi-1.21.1-2.4.2.jar'
+
+[update.modrinth]
+mod-id = 'Wun33LcK'
+version = 'KFLSWnM1'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'

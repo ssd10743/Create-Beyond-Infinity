@@ -1,0 +1,30 @@
+filename = 'voxy-0.2.16-beta+1.21.11.jar'
+name = 'voxy'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.2.16-beta'
+
+[download]
+hash = 'd5159e2e745a9c50f16c67c54303b8a991dc5a1954e5cd7edc235c6f24ad2a045cb493e128717ed4e97352366ae83b03b3d73815342421e631c2a8995c48cccb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fxxUqruK/versions/H3w2nVdU/voxy-0.2.16-beta%2B1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'fxxUqruK'
+version = 'H3w2nVdU'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'AANobbMI'
+type = 'REQUIRED'
+version = 'NFkjnzWE'

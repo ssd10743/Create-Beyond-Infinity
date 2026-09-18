@@ -1,0 +1,29 @@
+filename = 'create-aeronautics-lift-patch-1.1.0.jar'
+name = 'Create Aeronautics Lift Patch'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0'
+
+[download]
+hash = '149484359f8fef802cb9e7796167d1e0e8a328cbed1d66f0fe3b5fedae420f2dbbbe0430675d192bd23adf2fbc613be5a590e1d2c6c223589403d63e32fe5524'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wEWnF0xx/versions/b5GqYXEI/create-aeronautics-lift-patch-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'wEWnF0xx'
+version = 'b5GqYXEI'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'oWaK0Q19'
+type = 'REQUIRED'

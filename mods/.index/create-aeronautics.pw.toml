@@ -1,0 +1,25 @@
+filename = 'create-aeronautics-bundled-1.21.1-1.3.2.jar'
+name = 'Create Aeronautics'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.2+mc1.21.1'
+
+[download]
+hash = 'dc7e8e1148fa442243889ba29412207137e1bb86206e6c92bc0a589f1374a466e93de22bdbf14f753984d86c29308fbbdc0f14a4b9618b14c0ac1666a36b46f5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oWaK0Q19/versions/44pLdPGg/create-aeronautics-bundled-1.21.1-1.3.2.jar'
+
+[update.modrinth]
+mod-id = 'oWaK0Q19'
+version = '44pLdPGg'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'

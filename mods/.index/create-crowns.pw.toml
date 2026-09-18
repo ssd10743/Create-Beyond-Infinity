@@ -1,0 +1,25 @@
+filename = 'crowns-1.21.1-2.2.5.jar'
+name = 'Create : CROWNS'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '2.2.5'
+
+[download]
+hash = '3584ad1ca83ae086c584a84067c64db5f34cd3f15b3fc7e78edac04eded041e0af9ae946f067c13fe9bb475f20f2ce9348e3cc8a1dadd96627bfa1f503899393'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RCsqeVSp/versions/oXIJWFli/crowns-1.21.1-2.2.5.jar'
+
+[update.modrinth]
+mod-id = 'RCsqeVSp'
+version = 'oXIJWFli'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Wun33LcK'
+type = 'REQUIRED'
