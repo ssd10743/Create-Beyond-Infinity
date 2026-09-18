@@ -1,0 +1,13 @@
+{
+    "Features": {
+        "enable_auto_refill": {
+            "value": false
+        }
+    },
+    "ModSettings": {
+        "first_run": false,
+        "enable_auto_refill": {
+            "value": false
+        }
+    }
+}

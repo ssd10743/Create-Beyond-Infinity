@@ -1,0 +1,29 @@
+["Melee Setting"]
+	#Gun IDs that should be treated as melee weapons.
+	meleeGunIds = ["tacz:type_82", "tacz:type_83"]
+
+["GunSmithTable Setting"]
+	#Show item toasts when crafting at the gun smith table.
+	enableCraftToast = true
+	#Read nearby container contents while crafting at the gun smith table.
+	enableContainerReader = true
+	#Number of repeated crafts when holding shift at the gun smith table.
+	# Default: 4
+	# Range: 1 ~ 64
+	massCraftCount = 4
+
+["Attachment Setting"]
+	#Maximum guns shown for attachment compatibility while holding shift.
+	# Default: 16
+	# Range: 0 ~ 1024
+	maxDisplayedCompatibleGuns = 16
+	#Show detailed numeric attachment attributes.
+	enableAttachmentDetail = true
+
+["Other Setting"]
+	#Temporarily switch to first person while aiming from another camera mode.
+	enableBetterAimCamera = true
+	#Allow fast gun swapping without swap delay.
+	enableFastSwapGun = true
+	#Highlight related items while hovering inventory items.
+	enableShowItemRelation = true

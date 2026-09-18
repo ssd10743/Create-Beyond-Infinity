@@ -1,0 +1,11 @@
+{
+  "configVersion": 6,
+  "enabled": true,
+  "maximumRenderDistanceBlocks": 8192,
+  "minimumProxyDistanceBlocks": 0,
+  "maximumAnimationDistanceBlocks": 8192,
+  "renderNameTags": true,
+  "disableVanillaFog": false,
+  "shareSelf": true,
+  "shareMaximumDistanceBlocks": 8192
+}

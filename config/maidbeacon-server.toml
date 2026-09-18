@@ -1,0 +1,62 @@
+effect_auras = ["""
+{
+  "effect": "minecraft:speed",
+  "effectLevel": 0,
+  "beaconLevel": 0,
+  "cost": 1,
+  "range": 20.0
+}""", """
+{
+  "effect": "minecraft:haste",
+  "effectLevel": 0,
+  "beaconLevel": 0,
+  "cost": 1,
+  "range": 20.0
+}""", """
+{
+  "effect": "minecraft:resistance",
+  "effectLevel": 0,
+  "beaconLevel": 1,
+  "cost": 1,
+  "range": 20.0
+}""", """
+{
+  "effect": "minecraft:jump_boost",
+  "effectLevel": 0,
+  "beaconLevel": 1,
+  "cost": 1,
+  "range": 20.0
+}""", """
+{
+  "effect": "minecraft:strength",
+  "effectLevel": 0,
+  "beaconLevel": 2,
+  "cost": 1,
+  "range": 20.0
+}""", """
+{
+  "effect": "minecraft:regeneration",
+  "effectLevel": 0,
+  "beaconLevel": 3,
+  "cost": 2,
+  "range": 20.0
+}"""]
+beacon_cost = [1, 2, 3, 4]
+target_whitelist = ["minecraft:player", "touhou_little_maid:maid"]
+itemstack_to_upgrade_beacon_level = ["""
+{
+  "id": "minecraft:gold_block",
+  "count": 9
+}""", """
+{
+  "id": "minecraft:diamond_block",
+  "count": 9
+}""", """
+{
+  "id": "minecraft:netherite_block",
+  "count": 9
+}"""]
+# Default: 20
+# Range: > 1
+effect_check_interval = 20
+enable_beacon_range_rendering = false

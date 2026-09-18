@@ -1,0 +1,57 @@
+["General Settings"]
+	#Enable mod: 0 = disabled, 1 = players only, 2 = all entities
+	# Default: 2
+	# Range: 0 ~ 2
+	enableMod = 2
+	#Time between footprints in seconds (lower = more footprints)
+	# Default: 0.2
+	# Range: 0.05 ~ 2.0
+	secPerPrint = 0.2
+	#How long footprints stay visible in seconds
+	# Default: 10.0
+	# Range: 1.0 ~ 60.0
+	printLifetime = 10.0
+	#Height offset for footprints above blocks
+	# Default: 0.0
+	# Range: -0.5 ~ 0.5
+	printHeight = 0.0
+	#Generate footprints for invisible entities
+	canGenWhenInvisible = true
+
+["Visual Settings"]
+	#How long entities stay 'wet' after being in water (in ticks, 20 = 1 second)
+	# Default: 10
+	# Range: 1 ~ 100
+	wetDuration = 10
+	#Transparency of watermark particles (0.0 = invisible, 1.0 = opaque)
+	# Default: 0.4
+	# Range: 0.0 ~ 1.0
+	watermarkAlpha = 0.4
+	#Transparency of footprint particles (0.0 = invisible, 1.0 = opaque)
+	# Default: 0.7
+	# Range: 0.0 ~ 1.0
+	footprintAlpha = 0.7
+	#Size multiplier for footprint particles
+	# Default: 5
+	# Range: 1 ~ 20
+	footprintSize = 5
+
+["Particle Effects"]
+	#Probability of rail sparks for minecarts (0.0 = never, 1.0 = always)
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	railFlameRange = 0.2
+	#Enable particle trails for boats
+	enableBoatTrail = true
+	#Swimming bubble particles: 0 = disabled, 1 = players only, 2 = all entities
+	# Default: 2
+	# Range: 0 ~ 2
+	swimPopLevel = 2
+	#Snow dust particles: 0 = disabled, 1 = players only, 2 = all entities
+	# Default: 2
+	# Range: 0 ~ 2
+	snowDustLevel = 2
+	#Water splash particles: 0 = disabled, 1 = players only, 2 = all entities
+	# Default: 1
+	# Range: 0 ~ 2
+	waterSplashLevel = 1
