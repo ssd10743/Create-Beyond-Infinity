@@ -1,0 +1,10 @@
+#CCA-CNA Compat Settings
+[energy_bridge]
+	#FE transferred per tick through the Energy Bridge (default: 1024 FE/t)
+	# Default: 1024
+	# Range: > 1
+	transferRate = 1024
+	#Internal FE buffer of the Energy Bridge (default: 10000 FE)
+	# Default: 10000
+	# Range: > 1
+	bufferCapacity = 10000

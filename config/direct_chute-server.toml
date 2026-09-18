@@ -1,0 +1,10 @@
+#Defines how many ticks it takes for the direct chute to update again
+# Default: 5
+# Range: > 1
+tickUpdate = 5
+#Defines how many items it extracts per update
+# Default: 16
+# Range: 1 ~ 64
+extractionRate = 16
+#If enabled, the block uses a BlockEntity to cache the inventories instead of re-querying them every update.This should reduce CPU usage, but increases RAM usage due to block entity instances and NBT data (even though it's empty)
+blockEntity = false

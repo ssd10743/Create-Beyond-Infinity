@@ -1,0 +1,21 @@
+["flash shield"]
+	#max durability of flash shield
+	# Default: 450
+	# Range: 1 ~ 32767
+	flash_shield_max_durability = 450
+	#cooldown of flash shield in ticks
+	# Default: 200
+	# Range: 20 ~ 32767
+	flash_shield_cooldown = 200
+
+[throwable]
+	#modifier of initial speed when crouching, 1.0 means no change
+	# Default: 0.5
+	# Range: 0.01 ~ 2.0
+	flash_shield_cooldown = 0.5
+
+[melee]
+	#maximum number of targets can contains in melee attack request packet
+	# Default: 32
+	# Range: 1 ~ 512
+	melee_max_target = 32
