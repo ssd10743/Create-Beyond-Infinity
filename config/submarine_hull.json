@@ -1465,6 +1465,70 @@
     "maxWaterDepth": 33,
     "implosionChance": 0.8
   },
+  "aeronautics_dyeable_components:black_levitite": {
+    "maxWaterDepth": 190,
+    "implosionChance": 0.05
+  },
+  "aeronautics_dyeable_components:blue_levitite": {
+    "maxWaterDepth": 190,
+    "implosionChance": 0.05
+  },
+  "aeronautics_dyeable_components:brown_levitite": {
+    "maxWaterDepth": 190,
+    "implosionChance": 0.05
+  },
+  "aeronautics_dyeable_components:cyan_levitite": {
+    "maxWaterDepth": 190,
+    "implosionChance": 0.05
+  },
+  "aeronautics_dyeable_components:gray_levitite": {
+    "maxWaterDepth": 190,
+    "implosionChance": 0.05
+  },
+  "aeronautics_dyeable_components:green_levitite": {
+    "maxWaterDepth": 190,
+    "implosionChance": 0.05
+  },
+  "aeronautics_dyeable_components:light_blue_levitite": {
+    "maxWaterDepth": 190,
+    "implosionChance": 0.05
+  },
+  "aeronautics_dyeable_components:light_gray_levitite": {
+    "maxWaterDepth": 190,
+    "implosionChance": 0.05
+  },
+  "aeronautics_dyeable_components:lime_levitite": {
+    "maxWaterDepth": 190,
+    "implosionChance": 0.05
+  },
+  "aeronautics_dyeable_components:magenta_levitite": {
+    "maxWaterDepth": 190,
+    "implosionChance": 0.05
+  },
+  "aeronautics_dyeable_components:orange_levitite": {
+    "maxWaterDepth": 190,
+    "implosionChance": 0.05
+  },
+  "aeronautics_dyeable_components:pink_levitite": {
+    "maxWaterDepth": 190,
+    "implosionChance": 0.05
+  },
+  "aeronautics_dyeable_components:purple_levitite": {
+    "maxWaterDepth": 190,
+    "implosionChance": 0.05
+  },
+  "aeronautics_dyeable_components:red_levitite": {
+    "maxWaterDepth": 190,
+    "implosionChance": 0.05
+  },
+  "aeronautics_dyeable_components:white_levitite": {
+    "maxWaterDepth": 190,
+    "implosionChance": 0.05
+  },
+  "aeronautics_dyeable_components:yellow_levitite": {
+    "maxWaterDepth": 190,
+    "implosionChance": 0.05
+  },
   "aeronautics_utility_objects:brass_hydraulic_hinge_head": {
     "maxWaterDepth": 131,
     "implosionChance": 0.22
