@@ -1,6 +1,9 @@
 # Create: Beyond Infinity
 ![alt text](Create_Beyond_Infinity.png)
 
+## 記憶體設置
+最大與最小記憶體用量推薦都設置為8192MB
+
 ## JVM設置
 推薦按照以下JVM設定進行啟動
 ```powershell
